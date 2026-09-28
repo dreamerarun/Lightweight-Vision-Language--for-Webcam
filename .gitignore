@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+vl-webcam/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated screenshots
+capture_*.jpg
+capture_*.jpeg
+capture_*.png
+
+# Logs
+*.log
+
+# Model/cache files
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Hugging Face cache
+.cache/
+huggingface_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
